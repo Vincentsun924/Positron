@@ -1,0 +1,18 @@
+---
+title: "example"
+format: gfm
+---
+
+## Intro
+
+this is a test
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+mpg
+
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) + geom_point()
+```
