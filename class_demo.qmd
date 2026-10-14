@@ -1,0 +1,13 @@
+---
+title: "Class Demo"
+format: html
+---
+
+```{r setup}
+library(tidyverse)
+library(Lahman)
+```
+
+```{r q1}
+
+```
